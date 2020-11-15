@@ -1,0 +1,4 @@
+﻿  Task1.cpp
+C:\Users\MrEndermeshka\source\repos\ExampleLab17\Task1\Task1.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MrEndermeshka\source\repos\ExampleLab17\Task1\Task1.cpp(83,6): warning C4101: tempArr: неиспользованная локальная переменная
+  Task1.vcxproj -> C:\Users\MrEndermeshka\source\repos\ExampleLab17\Debug\Task1.exe
